@@ -1,6 +1,6 @@
 # Weather APP
 
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fstatus-demo-green)![Static Badge](https://img.shields.io/github%2Flast-commit%2Fkmaksut%2Ftypingtest)
+![Static Badge](https://img.shields.io/badge/status-demo-green) ![Static Badge](https://img.shields.io/github%2Flast-commit%2Fkmaksut%2Ftypingtest)
 
 ![Weather APP](https://i.ibb.co/h273vFV/Weather-APP.png)
 
