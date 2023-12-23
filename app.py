@@ -4,7 +4,10 @@ from CTkToolTip import *
 from datetime import datetime
 from urllib.request import urlopen
 from tksvg import SvgImage
-import dotenv, os, re, requests
+import dotenv
+import os
+import re 
+import requests
 
 # get time
 current = datetime.now()
