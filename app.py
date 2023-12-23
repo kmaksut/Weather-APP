@@ -1,5 +1,4 @@
-from PIL import Image, ImageTk
-Image.CUBIC = Image.BICUBIC
+from PIL import ImageTk
 import customtkinter as ctk
 from CTkToolTip import *
 from datetime import datetime
