@@ -10,11 +10,6 @@ __pycache__/
 # C extensions
 *.so
 
-# My ignores
-gif_player.py
-test.py
-test2.py
-
 # Distribution / packaging
 .Python
 build/
